@@ -15,7 +15,7 @@
     <jackson.version>1.9.9</jackson.version>
 
     <!-- spring版本号 -->
-    <spring.version>4.3.9.RELEASE</spring.version>
+    <spring.version>5.3.19</spring.version>
     <spring-data-redis.version>1.8.4.RELEASE</spring-data-redis.version>
 
     <!-- mybatis版本号 -->
